@@ -1,5 +1,3 @@
-# Gestion des notes des étudiants
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
