@@ -1,6 +1,5 @@
 # Gestion des notes des étudiants
 
-Gestion Notes Étudiants
 <!DOCTYPE html>
 <html lang="fr">
 <head>
